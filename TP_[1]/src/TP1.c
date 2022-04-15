@@ -1,6 +1,6 @@
 /*
 1. Ingresar Kilómetros: ( km=x)
-2. Ingresar Precio de Vuelos: (Aerolíneas=y, Latam=z)
+2. Ingresar Precio de Vuelos: (Aerolíneas=y,Latam=z)
 - Precio vuelo Aerolíneas:
 - Precio vuelo Latam:
 3. Calcular todos los costos:
